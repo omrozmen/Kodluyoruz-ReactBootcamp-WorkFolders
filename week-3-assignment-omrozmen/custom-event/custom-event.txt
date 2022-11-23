@@ -1,0 +1,3 @@
+CustomEvent() JS ile gelen eventler dışında başka bir event yapmak için kullanılmaktadır.
+
+![]("./odev.js")
